@@ -12,10 +12,10 @@ recipes.remove(<sync:item_placeholder>);
 recipes.remove(<sync:item_treadmill>);
 //Don't touch me!
 //#Add
-recipes.addShaped(<opencomputers:component:12>, [[<minecraft:emerald>, <opencomputers:component:11>, <minecraft:emerald>],[<opencomputers:material:9>, <opencomputers:component:5>, <opencomputers:material:9>], [<minecraft:obsidian>, <opencomputers:material:4>, <minecraft:obsidian>]]);
+//recipes.addShaped(<opencomputers:component:12>, [[<minecraft:emerald>, <opencomputers:component:11>, <minecraft:emerald>],[<opencomputers:material:9>, <opencomputers:component:5>, <opencomputers:material:9>], [<minecraft:obsidian>, <opencomputers:material:4>, <minecraft:obsidian>]]);
 //recipes.addShaped(<opencomputers:storage:1>, [[<opencomputers:storage:*>, <opencomputers:material:7>, null],[null, null, null], [null, null, null]]);
 //recipes.addShaped(<opencomputers:storage:1>, [[<opencomputers:storage:*>, <opencomputers:cable:11250603>, null],[null, null, null], [null, null, null]]);
-recipes.addShapedMirrored(<opencomputers:component:18>, [[<thermalfoundation:material:198>, <opencomputers:material:9>, <thermalfoundation:material:198>],[<opencomputers:component:2>, <opencomputers:component:5>, <opencomputers:card:3>], [<thermalfoundation:material:198>, <opencomputers:material:9>, <thermalfoundation:material:198>]]);
+//recipes.addShapedMirrored(<opencomputers:component:18>, [[<thermalfoundation:material:198>, <opencomputers:material:9>, <thermalfoundation:material:198>],[<opencomputers:component:2>, <opencomputers:component:5>, <opencomputers:card:3>], [<thermalfoundation:material:198>, <opencomputers:material:9>, <thermalfoundation:material:198>]]);
 recipes.addShapedMirrored(<generallaymansaestheticspyingscreen:block_glass_terminal>, [[null, <practicallogistics2:wirelessplate>, null],[<warpdrive:component:18>, <ic2:resource:13>, <ic2:crafting:2>], [<minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>]]);
 recipes.addShaped(<generallaymansaestheticspyingscreen:block_glass:1>, [[<minecraft:glass>, <minecraft:glass>, <minecraft:glass>],[<ic2:crafting:1>, <minecraft:diamond>, <ic2:crafting:1>], [<practicallogistics2:wirelessplate>, <ic2:resource:12>, <opencomputers:material:9>]]);
 recipes.addShaped(<generallaymansaestheticspyingscreen:block_glass:2>, [[<practicallogistics2:wirelessplate>, <minecraft:diamond>, <opencomputers:material:9>],[null, <generallaymansaestheticspyingscreen:block_glass>, null], [null, <ic2:crafting:1>, null]]);
