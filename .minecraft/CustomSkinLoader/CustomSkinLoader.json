@@ -1,0 +1,40 @@
+{
+  "version": "14.13",
+  "buildNumber": 319,
+  "loadlist": [
+    {
+      "name": "Mojang",
+      "type": "MojangAPI",
+      "apiRoot": "https://api.mojang.com/",
+      "sessionRoot": "https://sessionserver.mojang.com/"
+    },
+    {
+      "name": "BlessingSkin",
+      "type": "CustomSkinAPI",
+      "root": "http://skin.prinzeugen.net/"
+    },
+    {
+      "name": "TLauncher",
+      "type": "ElyByAPI",
+      "root": "https://auth.tlauncher.org/skin/profile/texture/login/"
+    },
+    {
+      "name": "GlitchlessGames",
+      "type": "GlitchlessAPI",
+      "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname\u003d"
+    }
+  ],
+  "enableDynamicSkull": true,
+  "enableTransparentSkin": true,
+  "forceIgnoreHttpsCertificate": false,
+  "forceLoadAllTextures": false,
+  "enableCape": true,
+  "forceFillSkullNBT": false,
+  "threadPoolSize": 3,
+  "retryTime": 1,
+  "cacheExpiry": 30,
+  "forceUpdateSkull": false,
+  "enableLocalProfileCache": false,
+  "enableCacheAutoClean": false,
+  "forceDisableCache": false
+}
