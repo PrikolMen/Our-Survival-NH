@@ -1,4 +1,4 @@
-# Our-Survival--New-Horizons Client
+# Our Survival - New Horizons Client
 
 ### MultiMC Install
 1. Download last release
