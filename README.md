@@ -1,6 +1,11 @@
 # Our-Survival--New-Horizons Client
 
-### TLauncher support
+### MultiMC Install
+1. Download last release
+2. Install modpack from archive
+3. Run modpack in multimc
+
+### TLauncher Install
 1. Download: https://drive.google.com/file/d/1qZn3rvIDwOo4O87bi7UDDfyBkQuqYKnm/view?usp=sharing
 2. Drop in versions/
 3. Download last release from this page
