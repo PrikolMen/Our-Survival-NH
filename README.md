@@ -7,7 +7,7 @@
 
 ### TLauncher Install
 1. Download: https://drive.google.com/file/d/1qZn3rvIDwOo4O87bi7UDDfyBkQuqYKnm/view?usp=sharing
-2. Drop in tlauncher `versions/`
+2. Unpack in `.minecraft/versions/`
 3. Download last modpack release from github releases
 4. Unpack release files in `versions/Our Survival - New Horisons/`
 5. Run version in tlauncher
