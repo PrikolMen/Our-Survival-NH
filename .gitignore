@@ -16,3 +16,8 @@
 .minecraft/asm
 .minecraft/.mixin.out
 .minecraft/config/customloadingscreen_timings.nbt
+.minecraft/config/AppliedEnergistics2/items.csv
+.minecraft/llibrary/debug
+.minecraft/CustomSkinLoader/ForgePlugin.log
+.minecraft/CustomSkinLoader/ForgePlugin.log
+.minecraft/CustomSkinLoader/CustomSkinLoader.log

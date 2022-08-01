@@ -1,42 +1,33 @@
-[2022-08-01 05:02:56] [Client thread INFO] CustomSkinLoader 14.13
-[2022-08-01 05:02:56] [Client thread INFO] DataDir: D:\Program Files (x86)\MultiMC\instances\Our Survival- New Horizons\.minecraft\CustomSkinLoader
-[2022-08-01 05:02:56] [Client thread INFO] Operating System: Windows 10 (amd64) version 10.0
-[2022-08-01 05:02:56] [Client thread INFO] Java Version: 1.8.0_341, Oracle Corporation
-[2022-08-01 05:02:56] [Client thread INFO] Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-[2022-08-01 05:02:56] [Client thread INFO] Minecraft: null()
-[2022-08-01 05:02:56] [Client thread INFO] Config File: D:\Program Files (x86)\MultiMC\instances\Our Survival- New Horizons\.minecraft\CustomSkinLoader\CustomSkinLoader.json
-[2022-08-01 05:02:56] [Client thread INFO] Try to load config.
-[2022-08-01 05:02:56] [Client thread INFO] Successfully load config.
-[2022-08-01 05:02:56] [Client thread INFO] Add a profile loader: MojangAPI
-[2022-08-01 05:02:56] [Client thread INFO] Add a profile loader: Legacy
-[2022-08-01 05:02:56] [Client thread INFO] Add a profile loader: CustomSkinAPI
-[2022-08-01 05:02:56] [Client thread INFO] Add a profile loader: CustomSKinAPIPlus
-[2022-08-01 05:02:56] [Client thread INFO] Add a profile loader: UniSkinAPI
-[2022-08-01 05:02:56] [Client thread INFO] Add a profile loader: ElyByAPI
-[2022-08-01 05:02:56] [Client thread INFO] Add a profile loader: GlitchlessAPI
-[2022-08-01 05:02:56] [Client thread INFO] Successfully update config.
-[2022-08-01 05:02:56] [Client thread INFO] version : 14.13
-[2022-08-01 05:02:56] [Client thread INFO] buildNumber : 319
-[2022-08-01 05:02:56] [Client thread INFO] loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "http://skin.prinzeugen.net/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }]
-[2022-08-01 05:02:56] [Client thread INFO] enableDynamicSkull : true
-[2022-08-01 05:02:56] [Client thread INFO] enableTransparentSkin : true
-[2022-08-01 05:02:56] [Client thread INFO] forceIgnoreHttpsCertificate : false
-[2022-08-01 05:02:56] [Client thread INFO] forceLoadAllTextures : false
-[2022-08-01 05:02:56] [Client thread INFO] enableCape : true
-[2022-08-01 05:02:56] [Client thread INFO] forceFillSkullNBT : false
-[2022-08-01 05:02:56] [Client thread INFO] threadPoolSize : 3
-[2022-08-01 05:02:56] [Client thread INFO] retryTime : 1
-[2022-08-01 05:02:56] [Client thread INFO] cacheExpiry : 30
-[2022-08-01 05:02:56] [Client thread INFO] forceUpdateSkull : false
-[2022-08-01 05:02:56] [Client thread INFO] enableLocalProfileCache : false
-[2022-08-01 05:02:56] [Client thread INFO] enableCacheAutoClean : false
-[2022-08-01 05:02:56] [Client thread INFO] forceDisableCache : false
-[2022-08-01 05:05:22] [Pr1kolMen INFO] Loading Pr1kolMen's profile.
-[2022-08-01 05:05:22] [Pr1kolMen INFO] 1/4 Try to load profile from 'Mojang'.
-[2022-08-01 05:05:22] [Pr1kolMen INFO] Default profile will be used.
-[2022-08-01 05:05:22] [Pr1kolMen INFO] Pr1kolMen's profile loaded.
-[2022-08-01 05:05:22] [Pr1kolMen INFO] (SkinUrl: http://textures.minecraft.net/texture/ab50f7ace0b1685bb48e2d4b3431eb09c9d1b48d08f0bbaf71031e441fdad18 , Model: slim , CapeUrl: null  , Expiry: 1659315952)
-[2022-08-01 05:05:22] [Pr1kolMen DEBUG] Try to request 'http://textures.minecraft.net/texture/ab50f7ace0b1685bb48e2d4b3431eb09c9d1b48d08f0bbaf71031e441fdad18'.
-[2022-08-01 05:05:22] [Pr1kolMen DEBUG] Cache file found (Length: 2685 , Path: 'D:\Program Files (x86)\MultiMC\assets\skins\ab\ab50f7ace0b1685bb48e2d4b3431eb09c9d1b48d08f0bbaf71031e441fdad18' , Expire: 0)
-[2022-08-01 05:05:22] [Client thread DEBUG] Loading type: SKIN
-[2022-08-01 05:05:22] [Client thread INFO] ThreadDownloadImageData Class: net.minecraft.client.renderer.ThreadDownloadImageData
+[2022-08-01 23:48:37] [Client thread INFO] CustomSkinLoader 14.13
+[2022-08-01 23:48:37] [Client thread INFO] DataDir: D:\Program Files (x86)\MultiMC\instances\Our Survival- New Horizons\.minecraft\CustomSkinLoader
+[2022-08-01 23:48:37] [Client thread INFO] Operating System: Windows 10 (amd64) version 10.0
+[2022-08-01 23:48:37] [Client thread INFO] Java Version: 1.8.0_341, Oracle Corporation
+[2022-08-01 23:48:37] [Client thread INFO] Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[2022-08-01 23:48:37] [Client thread INFO] Minecraft: null()
+[2022-08-01 23:48:37] [Client thread INFO] Config File: D:\Program Files (x86)\MultiMC\instances\Our Survival- New Horizons\.minecraft\CustomSkinLoader\CustomSkinLoader.json
+[2022-08-01 23:48:37] [Client thread INFO] Try to load config.
+[2022-08-01 23:48:37] [Client thread INFO] Successfully load config.
+[2022-08-01 23:48:37] [Client thread INFO] Add a profile loader: MojangAPI
+[2022-08-01 23:48:37] [Client thread INFO] Add a profile loader: Legacy
+[2022-08-01 23:48:37] [Client thread INFO] Add a profile loader: CustomSkinAPI
+[2022-08-01 23:48:37] [Client thread INFO] Add a profile loader: CustomSKinAPIPlus
+[2022-08-01 23:48:37] [Client thread INFO] Add a profile loader: UniSkinAPI
+[2022-08-01 23:48:37] [Client thread INFO] Add a profile loader: ElyByAPI
+[2022-08-01 23:48:37] [Client thread INFO] Add a profile loader: GlitchlessAPI
+[2022-08-01 23:48:37] [Client thread INFO] Successfully update config.
+[2022-08-01 23:48:37] [Client thread INFO] version : 14.13
+[2022-08-01 23:48:37] [Client thread INFO] buildNumber : 319
+[2022-08-01 23:48:37] [Client thread INFO] loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "http://skin.prinzeugen.net/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }]
+[2022-08-01 23:48:37] [Client thread INFO] enableDynamicSkull : true
+[2022-08-01 23:48:37] [Client thread INFO] enableTransparentSkin : true
+[2022-08-01 23:48:37] [Client thread INFO] forceIgnoreHttpsCertificate : false
+[2022-08-01 23:48:37] [Client thread INFO] forceLoadAllTextures : false
+[2022-08-01 23:48:37] [Client thread INFO] enableCape : true
+[2022-08-01 23:48:37] [Client thread INFO] forceFillSkullNBT : false
+[2022-08-01 23:48:37] [Client thread INFO] threadPoolSize : 3
+[2022-08-01 23:48:37] [Client thread INFO] retryTime : 1
+[2022-08-01 23:48:37] [Client thread INFO] cacheExpiry : 30
+[2022-08-01 23:48:37] [Client thread INFO] forceUpdateSkull : false
+[2022-08-01 23:48:37] [Client thread INFO] enableLocalProfileCache : false
+[2022-08-01 23:48:37] [Client thread INFO] enableCacheAutoClean : false
+[2022-08-01 23:48:37] [Client thread INFO] forceDisableCache : false
