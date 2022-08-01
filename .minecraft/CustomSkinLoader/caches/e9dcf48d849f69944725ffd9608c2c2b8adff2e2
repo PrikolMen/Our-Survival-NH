@@ -1,8 +1,0 @@
-{
-  "id" : "8c8f914282954c4f84176d87350131a5",
-  "name" : "Pr1kolMen",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTY1OTA0ODA5NTkwOCwKICAicHJvZmlsZUlkIiA6ICI4YzhmOTE0MjgyOTU0YzRmODQxNzZkODczNTAxMzFhNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQcjFrb2xNZW4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjhmYzA2ZWFmM2Y4MmU1Mzc0MGE4MDU0N2M0Njk5NmFhMWE0YmZhZDgzY2JhMDQ2ZjliMGE1ZmM0N2EwNWIzIgogICAgfQogIH0KfQ=="
-  } ]
-}
