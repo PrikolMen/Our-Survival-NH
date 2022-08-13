@@ -5,6 +5,11 @@
 2. Install modpack from archive
 3. Run modpack in multimc
 
+or
+
+1. Install modpack from url `https://api.github.com/repos/PrikolMen/Our-Survival-NH/zipball`
+2. Rename `zipball` to `Our Surival HN` (optional)
+
 ### TLauncher Install
 1. Download: https://drive.google.com/file/d/1qZn3rvIDwOo4O87bi7UDDfyBkQuqYKnm/view?usp=sharing
 2. Unpack in `.minecraft/versions/`
